@@ -11,7 +11,7 @@ SMOverviewMap = (function() {
     var clickmarker;
 
     var minZoom = 0
-    var maxZoom = 5
+    var maxZoom = 50
     var gridSize = 64
 
     // A quick extension to allow image layer rotation.
