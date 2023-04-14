@@ -10,7 +10,7 @@ SMOverviewMap = (function() {
     var map;
     var clickmarker;
 
-    var minZoom = 0
+    var minZoom = -10
     var maxZoom = 50
     var gridSize = 64
 
